@@ -1,6 +1,6 @@
 # React Youtube app
 
-Get strated by
+Get started by
 > npm install
 
 > npm start
