@@ -2,6 +2,7 @@
 
 Get strated by
 > npm install
+
 > npm start
 
 
